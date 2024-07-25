@@ -1,1 +1,1 @@
-# php-ssg-blog
+# its a lovely day
